@@ -1,0 +1,62 @@
+body {
+    text-align: center
+}
+
+#hcj {
+    background-image: linear-gradient(to right, green, yellow);
+}
+
+.kijki {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+
+.lymph {
+    font-family: "MonteCarlo", cursive;
+}
+
+#vi {
+    font-family: "Montez", cursive;
+}
+
+li:hover {
+    background-color: cyan;
+}
+
+li {
+    display: inline;
+    padding: 8px;
+
+}
+
+section {
+    height: 800px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.aligue {
+    height: 350px;
+    width: 200px;
+}
+
+.aligue:hover {
+    transform: scale(0.9);
+}
+
+#dk {
+    background-color: antiquewhite
+}
+
+.link {
+    float: left;
+}
